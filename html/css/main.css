@@ -8,3 +8,8 @@ body{
 .etiqueta{
   color:#00ee00;
 }
+
+.caja{
+  margin:8px;
+  background-color:#aaf;
+}
