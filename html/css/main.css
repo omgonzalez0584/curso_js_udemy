@@ -1,23 +1,35 @@
 body{
   background-color:#EEEEEE;
 }
-#parrafo{
-  color:#FF0000;
+
+.parrafo1{
+  color:#222FFF;
+  text-align:center;
 }
 
-.etiqueta{
-  color:#00ee00;
+.parrafo2{
+  color:rgb(255, 51, 0);
+  text-align:justify;
+  text-indent:15px;
 }
 
-.caja{
-  margin:20px;
-  background-color:#aaf;
-  padding:20px;
-  border-style: solid;
-  border-width: 10px;
-  border-color:rgb(255, 204, 153);
-  border-radius:10px;
-  height:200px;
-  width:200px;
-  color:rgb(0, 51, 153);
+.parrafo3{
+  color:rgb(51, 153, 102);
+  text-align: right;
+}
+
+.a1{
+  text-decoration:none;
+  text-transform:uppercase;
+}
+
+.a2{
+  text-decoration:line-through;
+  text-transform:capitalize;
+}
+
+.a3{
+  text-decoration:none;
+  text-transform:lowercase;
+  letter-spacing:5px;
 }
