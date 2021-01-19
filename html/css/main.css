@@ -42,3 +42,39 @@ body{
   text-transform:lowercase;
   letter-spacing:5px;
 }
+
+
+.a4{
+  display: inline-block;
+  margin-top:20px;
+  text-decoration:none;
+  background-color:rgb(255, 0, 102);
+  padding:15px;
+  border-radius:5px;
+  font-family:monospace;
+}
+
+.a4:link{
+  color:white;
+}
+
+.a4:visited{
+  color:white;
+}
+
+.a4:hover{
+  background-color:rgb(204, 0, 102);
+}
+
+
+ul{
+  list-style-type:none;
+  padding:0px;
+  background-color:rgb(179, 179, 255);
+  border-radius:4px;
+}
+li{
+  padding:15px;
+  border-bottom: solid 1px rgb(153, 153, 255);
+  font-family:monospace;
+}
